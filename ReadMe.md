@@ -28,6 +28,7 @@ Di sicuro se ne avanzo una fetta devo ricordarmi di metterla in frigo, non come 
     -inserisco i dati della mia carta
     -autorizzo l'operazione
     -attendo che vada a buon termine finchè non ricevo una notifica di conferma ordine
+    -se l'operazione non  va a buon termine reinserisco i dati di un'altra carta, altrimenti pago alla consegna 
 
 6. Quando arriva il fattorino prendo la pizza
     -traccio il percorso del fattorino 
