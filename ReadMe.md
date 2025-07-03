@@ -17,6 +17,7 @@ Di sicuro se ne avanzo una fetta devo ricordarmi di metterla in frigo, non come 
 3. Guardo il listino 
     -seleziono la sezione del listino 
     -scorro fin quando non arrivo alla pizza "Prosciutto e Funghi"
+    -se nel listino non è disponibile la "Prosciutto e Funghi" ripeto l'operazione di selezione pizzeria scartando quella già visionata 
 
 4. Aggiungo ciò che desidero ordinare al carrello
     -aggiungo la pizza al carrello 
