@@ -6,9 +6,13 @@ Di sicuro se ne avanzo una fetta devo ricordarmi di metterla in frigo, non come 
 1. Prendo il cellulare e apro l'app di food delivery
     -prendo il mio cellulare
     -eseguo le operazioni che servono fino ad aprire l'app JustEat
+        -sblocco lo schermo
+        -scorro tra le schede e cartelle finchè non trovo l'app
+        -avvio l'app
     
 2. Seleziono la pizzeria di mio interesse
     -se c'è un ristorante già di mio riferimento lo seleziono, altrimenti cerco tra le pizzerie più vicine a me
+        -seleziono la pizzeria più vicina e che ha tempi di consegna più brevi delle altre 
     
 3. Guardo il listino 
     -seleziono la sezione del listino 
@@ -23,12 +27,15 @@ Di sicuro se ne avanzo una fetta devo ricordarmi di metterla in frigo, non come 
     -seleziono il metodo di pagamento con carta
     -inserisco i dati della mia carta
     -autorizzo l'operazione
-    -attendo che vada a buon termine 
+    -attendo che vada a buon termine finchè non ricevo una notifica di conferma ordine
 
 6. Quando arriva il fattorino prendo la pizza
+    -traccio il percorso del fattorino 
     -quando il fattorino bussa al citofono vado ad aprire
     -Prendo la mia pizza
     -mi dirigo in cucina
+        -prendo le stoviglie che mi servono: una forchetta, un coltello, un piatto, un bicchiere, dell'acqua
+        -le organizzo sul tavolo da cucina 
     -mi siedo al tavolo 
     -mangio la pizza finchè non sono sazio
 
